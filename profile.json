@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "m4ndex",
-  "seed": "#9CC3CC",
-  "seedFromAvatar": false,
+  "seed": "#147D04",
+  "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -10,28 +10,34 @@
     "hero",
     "socials",
     "about",
+    "wave",
     "stack",
     "projects",
     "stats",
     "streak",
-    "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
     "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
-    "avatarShape": "cookie",
+    "avatarShape": "gem",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Sopi's Boobies"
       },
       {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "icon": "favorite",
+        "label": "Half-Life 2 fan hlx"
       }
     ]
   },
@@ -40,7 +46,7 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Sopi's slut and designer"
       },
       {
         "icon": "code",
