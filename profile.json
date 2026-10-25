@@ -119,15 +119,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/MandexLor"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:youtube",
+        "url": "https://"
       }
     ],
     "variant": "chip",
